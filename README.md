@@ -1,1 +1,1 @@
-Python Game
+Python Game "Крестики-нолики"
